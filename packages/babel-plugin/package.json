@@ -21,6 +21,7 @@
     "prepublishOnly": "yarn run build"
   },
   "dependencies": {
+    "@babel/template": "^7.4.4",
     "@babel/plugin-syntax-dynamic-import": "^7.2.0"
   }
 }
